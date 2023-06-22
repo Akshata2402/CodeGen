@@ -207,7 +207,7 @@ svg{
   padding: 24px;
   transition-property:all;
   transition-duration:1s ;
-text-align: center;
+  text-align: center;
 }
 .card1:hover{
   transform:scale(1.1);
